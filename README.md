@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi there! 👋<br>I'm a IT Specialist & Web Developer with a background in system administration, troubleshooting, and network security. Recently, I transitioned into web development, focusing on JavaScript, React, Node.js, Express, and MongoDB.<br><br>🔹 Tech Skills: IT Support | System Administration | MERN Stack Development<br>🔹 Currently Learning: React & Backend Development<br>🔹 Building: Scalable web applications and IT automation solutions<br><br>I enjoy solving technical challenges and continuously improving my skills. Feel free to explore my repositories and connect with me!</p>
+<p align="left">Hi there! 👋<br>I'm a IT Specialist & Web Developer with a background in system administration, troubleshooting, and network security. Recently, I transitioned into web development, focusing on JavaScript, React, Node.js, Express, and MongoDB.<br><br>🔹 Tech Skills: IT Support | System Administration | MERN Stack Development<br>🔹 Currently Learning: React & Backend Development<br>🔹 Building: Scalable web applications and IT automation solutions<br><br>I enjoy solving technical challenges and continuously improving my skills. Feel free to explore my repositories and connect with me!</p><br>My portfoilo: https://abdul-aziz-portfolio-roan.vercel.app/
 
 ###
 
